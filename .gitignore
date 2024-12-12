@@ -1,4 +1,3 @@
 service_account.json
-Dockerfile
 venv/
-Orders/
+Daily_Trades_Summary.xlsx
